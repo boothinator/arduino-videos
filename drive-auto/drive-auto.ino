@@ -26,12 +26,12 @@ void loop()
    *       |-----|
    */
   // Go forward for 1.5 seconds
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, LOW);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -47,12 +47,12 @@ void loop()
    *       |-----|
    */
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -60,12 +60,12 @@ void loop()
   delay(500);
 
   // Turn right
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, LOW);
   analogWrite(6, 128);
@@ -73,12 +73,12 @@ void loop()
   delay(750);
   
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -86,12 +86,12 @@ void loop()
   delay(500);
   
   // Go forward for 1.5 seconds
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, LOW);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -99,12 +99,12 @@ void loop()
   delay(1500);
   
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -119,12 +119,12 @@ void loop()
    */
 
   // Turn left
-  // right motors
+  // Right motors
   digitalWrite(7, LOW);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, LOW);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -132,24 +132,24 @@ void loop()
   delay(750);
   
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
   delay(500);
   
   // Go forward for 1.5 seconds
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, LOW);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -165,24 +165,24 @@ void loop()
    */
   
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
   delay(500);
 
   // Turn left
-  // right motors
+  // Right motors
   digitalWrite(7, LOW);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, LOW);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -190,24 +190,24 @@ void loop()
   delay(750);
   
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
   delay(500);
   
   // Go forward for 1.5 seconds
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, LOW);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -215,12 +215,12 @@ void loop()
   delay(1000);
   
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -235,12 +235,12 @@ void loop()
    */
 
   // Turn right
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, LOW);
   analogWrite(6, 128);
@@ -248,24 +248,24 @@ void loop()
   delay(750);
   
   // Brake for half a second
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
   delay(500);
   
   // Go forward for 1.5 seconds
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, LOW);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, LOW);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
@@ -273,12 +273,12 @@ void loop()
   delay(1500);
   
   // Brake
-  // right motors
+  // Right motors
   digitalWrite(7, HIGH);
   digitalWrite(8, HIGH);
   analogWrite(5, 128);
 
-  // left motors
+  // Right motors
   digitalWrite(9, HIGH);
   digitalWrite(11, HIGH);
   analogWrite(6, 128);
